@@ -51,3 +51,9 @@ var GnosisHistory []byte
 
 //go:embed history/chiado.toml
 var ChiadoHistory []byte
+
+//go:embed bsc.toml
+var Bsc []byte
+
+//go:embed chapel.toml
+var Chapel []byte
